@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cbb344ba-5326-4e29-b3cd-bfae1f8e7ccc")
+	(paper "A4")
+	(title_block
+		(date "2024-08-04")
+		(rev "0.1")
+		(company "https://github.com/Bausager/9kW-bidirectional-PFC")
+	)
+	(lib_symbols)
+)

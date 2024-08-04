@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "285824c2-a8a3-46ea-9061-0a28c96b23e7")
+	(paper "A4")
+	(title_block
+		(title "Over Current Protection")
+		(date "2024-08-04")
+		(rev "0.1")
+		(company "https://github.com/Bausager/9kW-bidirectional-PFC")
+	)
+	(lib_symbols)
+)

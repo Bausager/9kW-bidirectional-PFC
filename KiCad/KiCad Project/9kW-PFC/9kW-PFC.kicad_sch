@@ -1,5 +1,95 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0d1e601c-6771-46fb-8dad-7fa1e6cd34f4")
+	(paper "A4")
+	(title_block
+		(title "Over Current Protection")
+		(date "2024-08-04")
+		(rev "0.1")
+		(company "https://github.com/Bausager/9kW-bidirectional-PFC")
+	)
+	(lib_symbols)
+	(sheet
+		(at 93.98 77.47)
+		(size 38.1 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "117ab6c8-fac7-4fb4-affd-0bd42a98ba90")
+		(property "Sheetname" "OverCurrentProtection"
+			(at 93.98 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OverCurrentProtection.kicad_sch"
+			(at 93.98 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "9kW-PFC"
+				(path "/0d1e601c-6771-46fb-8dad-7fa1e6cd34f4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 26.67)
+		(size 50.8 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "86428bd3-32d2-4eda-af17-55f20dc01213")
+		(property "Sheetname" "Power"
+			(at 15.24 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 15.24 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "9kW-PFC"
+				(path "/0d1e601c-6771-46fb-8dad-7fa1e6cd34f4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
