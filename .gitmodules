@@ -1,0 +1,3 @@
+[submodule "KiCad/GitKiCadLibrary"]
+	path = KiCad/GitKiCadLibrary
+	url = https://github.com/Bausager/KiCad-Libary.git

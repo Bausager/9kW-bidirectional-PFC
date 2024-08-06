@@ -12,7 +12,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 93.98 77.47)
+		(at 38.1 68.58)
 		(size 38.1 16.51)
 		(fields_autoplaced yes)
 		(stroke
@@ -24,7 +24,7 @@
 		)
 		(uuid "117ab6c8-fac7-4fb4-affd-0bd42a98ba90")
 		(property "Sheetname" "OverCurrentProtection"
-			(at 93.98 76.7584 0)
+			(at 38.1 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "OverCurrentProtection.kicad_sch"
-			(at 93.98 94.5646 0)
+			(at 38.1 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)

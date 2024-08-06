@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "NAND Gate 8-input 1-output")(type "KiCad")(uri "C:/Users/Bausa/Documents/Git Projects/9kW-bidirectional-PFC/KiCad/GitKiCadLibrary/Modules/SN74HCS30DR/KiCADv6/2024-08-06_17-09-18.kicad_sym")(options "")(descr ""))
 )
